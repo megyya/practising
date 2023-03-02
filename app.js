@@ -1,1 +1,1 @@
-alert("hello everyone :D");
+alert("hello everyone :D this is my first ever javascript code");
