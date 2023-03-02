@@ -1,1 +1,1 @@
-alert("hello everyone :D");
+alert("hello everyone this is a copy of the main webpage :D");
